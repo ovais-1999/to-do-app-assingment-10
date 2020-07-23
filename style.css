@@ -1,0 +1,44 @@
+.inputsec{
+    background: url(images/todopic.png);
+    width: 300px;
+    height: 200px;
+}
+.content{
+    width: 300px;
+    height: 375px;
+    
+    
+}
+.main{
+    width: 304px;  
+    margin: 0 auto; 
+    margin-top: 5px;
+    border: 2px solid rgba(25, 0, 255, 0.582);
+    background-color: rgb(255, 73, 103);
+}
+.input{
+    margin-top: 92px;
+    margin-left: 13px;
+
+}
+#deletebtn{
+    margin-left: 100px ;
+    margin-top: 20px;
+}
+
+   
+#btn{
+    margin-left: 10px;
+    cursor: pointer;
+    height: 30px;
+}
+#deleteicon{
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+#abc{
+    margin-top: 5px;
+}
+
